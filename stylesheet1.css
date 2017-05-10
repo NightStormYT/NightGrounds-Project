@@ -1191,6 +1191,11 @@ a {
     color: #fff!important;
     background-color: #f44336!important
 }
+.w3-blue,
+.w3-hover-color:hover {
+    color: #fff!important;
+    background-color: #02377c!important
+}
 .w3-white,
 .w3-hover-white:hover {
     color: #000!important;
